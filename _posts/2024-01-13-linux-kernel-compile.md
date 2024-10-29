@@ -1,10 +1,10 @@
 ---
-title: Linux kernel compile
-description: Examples of text, typography, math equations, diagrams, flowcharts, pictures, videos, and more.
-author: NTGshen
-date: 2019-08-08 11:33:00 +0800
+title: Linux内核编译
+description: 编译我的第一个Linux内核
+author: ShenNya
+date: 2024-01-13 20:46:00 +0800
 categories: [Linux]
-tags: [Linux, Compile]
+tags: [Linux, 编译]
 pin: true
 math: true
 mermaid: true
