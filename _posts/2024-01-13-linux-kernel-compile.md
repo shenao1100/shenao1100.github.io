@@ -5,7 +5,7 @@ author: ShenNya
 date: 2024-01-13 20:46:00 +0800
 categories: [Linux]
 tags: [Linux, 编译]
-pin: true
+#pin: true
 math: true
 mermaid: true
 ---
