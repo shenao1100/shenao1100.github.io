@@ -16,9 +16,7 @@ mermaid: true
 > 此笔记尚未完成
 {: .prompt-info }
 
-
 ## 带有输入框的弹窗
-
 
 DialogOverlay.axml
 ```xml
