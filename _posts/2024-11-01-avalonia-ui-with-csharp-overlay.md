@@ -13,8 +13,7 @@ mermaid: true
 # Avalonia UI实现提示弹窗、输入弹窗
 
 
-> 此笔记尚未完成
-{: .prompt-info }
+
 ## 前言
 
 在设计UI时经常会用到Dialog来提醒用户或者获取输入

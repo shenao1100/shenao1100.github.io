@@ -67,3 +67,51 @@ var DropAnimation = new Animation
 await DropAnimation.RunAsync(ContentPanel1);
 ```
 
+## 在ResourceDict中寻找Geometry
+
+```csharp
+/// <summary>
+/// Get Geometry svg from resource xaml
+/// </summary>
+/// <param name="resource_name">key for StreamGeometry you want</param>
+/// <returns></returns>
+private Geometry? TryGetGeometry(string resource_name)
+{
+    var is_res_exist = Application.Current.Resources.TryGetResource(resource_name, null, out var res);
+    if (is_res_exist && res is Geometry geom)
+    {
+        return geom;
+    }
+    else
+    {
+        return null;
+    }
+}
+```
+
+## 在ResourceDict中寻找Color
+
+```csharp
+var CBH_backgound = Application.Current.Resources.TryGetResource("CatalogBaseHighColor", null, out var Hresource);
+if (CBH_backgound && Hresource is Color Backgound)
+{
+    SomeControl.Background = Backgound;
+}
+```
+
+## 设置PathIcon内容为Geometry
+
+```csharp
+Geometry? svg = TryGetGeometry("resource_name");
+PathIcon icon = new PathIcon();
+icon.Data = svg;
+```
+
+## 设置子控件的Dockpanel.Dock
+
+```csharp
+DockPanel dockPanel = new DockPanel();
+Label label = new Label();
+DockPanel.SetDock(label, Dock.Left);
+```
+
