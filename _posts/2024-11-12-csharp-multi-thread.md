@@ -21,7 +21,7 @@ mermaid: true
 
 如果你想深入了解更多的线程操作和同步机制，请点[这里](/posts/csharp-multi-thread-advance/)
 
-后期应该会写一个实战，但不是现在 [Soon(TM)]
+后期应该会写一个实战，~~但不是现在 [Soon(TM)]~~ 已经[写完了](/posts/csharp-multi-thread-download-file/)
 
 
 ## 最简单的Task
