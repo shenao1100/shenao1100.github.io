@@ -10,6 +10,8 @@ order: 4
 
 ## About
 
+Major in：`Software Engineering`
+
 喜欢猫但是猫毛过敏的大学生
 
 喜欢可爱的东西
