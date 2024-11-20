@@ -107,6 +107,13 @@ PathIcon icon = new PathIcon();
 icon.Data = svg;
 ```
 
+## 在Resource Dict中查找任意内容并强制转换
+
+```csharp
+// to StreamGrometry
+PathIcon.Data = (StreamGeometry)this.FindResource("res_name");
+```
+
 ## 设置子控件的Dockpanel.Dock
 
 ```csharp
