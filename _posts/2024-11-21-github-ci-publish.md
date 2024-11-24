@@ -138,6 +138,8 @@ jobs:
 
 这个`v1.0.13.0`，长得和版本号一样其实也就是版本号的东西叫做`Tag (标签)`
 
+> 这种版本号其实叫[语义化版本](https://semver.org/lang/zh-CN/)
+
 打开这些Github的Release页面，就可以看到这个`Tag`
 
 ![alt text](../imgs/2024-11-21-github-ci-publish/image-2.png)

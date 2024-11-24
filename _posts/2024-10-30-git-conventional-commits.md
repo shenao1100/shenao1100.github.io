@@ -22,6 +22,9 @@ commitlint报错，查询后得知是由于我的commit message不规范导致�
 
 ## Conventional Commits
 
+> 你可以在[Convential Commit的官网](https://www.conventionalcommits.org/en/v1.0.0/)学到更多
+{: .prompt-info }
+
 commitlint 通常会检查提交信息是否符合 Conventional Commits 规范。基本格式如下：
 
 ```
