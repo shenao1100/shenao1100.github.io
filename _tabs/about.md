@@ -18,7 +18,11 @@ Major in：`Software Engineering`
 
 (=•ω•=)~
 
-最崇拜的人: `35377171356236513537753035706d66`
+## 最崇拜的人
+
+```
+35377171356236513537753035706d66
+```
 
 ## Languages and Tools
 
@@ -57,6 +61,12 @@ Major in：`Software Engineering`
           
 </div>
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shenao1100&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+我好烂！(呜呜 什么时候能到B啊qwq)：
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shenao1100)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact Me
 
