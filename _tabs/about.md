@@ -12,17 +12,17 @@ order: 4
 
 Major in：`Software Engineering`
 
-喜欢猫但是猫毛过敏的大学生
+A college student who likes cats but is allergic to their hair 
 
-喜欢可爱的东西
-
-(=•ω•=)~
+Like all cute things (^=•ω•=^)~
 
 ## 最崇拜的人
 
 ```
 35377171356236513537753035706d66
 ```
+
+给予我帮助、信心、目标的超可爱大佬
 
 ## Languages and Tools
 
