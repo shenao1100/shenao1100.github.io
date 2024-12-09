@@ -5,7 +5,7 @@ author: ShenNya
 date: 2024-11-21 00:01:00 +0800
 categories: [CI]
 tags: [Workflow, CI, 自动构建]
-pin: true
+pin: false
 math: true
 mermaid: true
 ---
