@@ -30,7 +30,7 @@ mermaid: true
 
 **高度（Height）**：从当前节点到最远叶子节点的路径长
 
-```mathematica
+```text
       A
     /   \
    B     C
@@ -55,7 +55,7 @@ mermaid: true
 除了叶子节点（没有子节点的节点）外都有两个子节点的
 
 满二叉树：
-```mathematica
+```text
       A
     /   \
    B     C
@@ -65,7 +65,7 @@ mermaid: true
 ```
 
 **非**满二叉树：
-```mathematica
+```text
       A
     /   \
    B     C
@@ -83,7 +83,7 @@ mermaid: true
 
 完全二叉树：
 
-```mathematica
+```text
       A
     /   \
    B     C
@@ -91,7 +91,7 @@ mermaid: true
  D   E F   G
 
 ```
-```mathematica
+```text
       A
     /   \
    B     C
@@ -102,7 +102,7 @@ mermaid: true
 
 **非**完全二叉树：
 
-```mathematica
+```text
       A
     /   \
    B     C
@@ -115,7 +115,7 @@ mermaid: true
 
 # 遍历
 
-```mathematica
+```text
       A
     /   \
    B     C
@@ -180,7 +180,7 @@ struct TreeNode{
 ## 创建一个树
 
 我们来创建一个这样的树：
-```mathematica
+```text
       A
      / \
     B   C
