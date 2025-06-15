@@ -85,11 +85,11 @@ Like all cute things (=^•ω•^=)~
 </div>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shenao1100&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-shenao1100s-projects.vercel.app/api/top-langs/?username=shenao1100&layout=compact&hide=javascript,html,scss,css)](https://github.com/anuraghazra/github-readme-stats)
 
 我好烂！(呜呜 什么时候能到B啊qwq)：
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shenao1100)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-shenao1100s-projects.vercel.app/api?username=shenao1100)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact Me
 
