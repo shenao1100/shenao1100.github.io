@@ -95,5 +95,3 @@ Like all cute things (=^•ω•^=)~
 
 [Mail Here](mailto:ntgtech20060605@gmail.com)
 
-[Telegram](https://t.me/NTtechGroup)
-
